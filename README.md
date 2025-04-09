@@ -70,9 +70,8 @@ lub dla yarn:
 ```bash
 yarn start
 ```
-Aplikacja zostanie uruchomiona w trybie developerskim i otwarta pod adresem http://localhost:3000.
 
-##🔧 Technologie
+## 🔧 Technologie
 - React – biblioteka do tworzenia interfejsu użytkownika
 
 - dnd-kit – nowoczesna biblioteka drag & drop
@@ -85,7 +84,7 @@ Aplikacja zostanie uruchomiona w trybie developerskim i otwarta pod adresem http
 
 - Recharts – wizualizacja statystyk
 
-##📌 Przyszłe funkcjonalności
+## 📌 Przyszłe funkcjonalności
 - Rozbudowana edycja szczegółów zadania
 
 - Synchronizacja danych w czasie rzeczywistym między użytkownikami
@@ -94,5 +93,5 @@ Aplikacja zostanie uruchomiona w trybie developerskim i otwarta pod adresem http
 
 - Dodatkowa personalizacja interfejsu i motywów kolorystycznych
 
-##🧑‍💻 Autor
+## 🧑‍💻 Autor
 Projekt stworzony przez Arkadiusza Migas
