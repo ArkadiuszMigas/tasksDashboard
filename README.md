@@ -1,4 +1,4 @@
-# Task Dashboard
+# Tasks Dashboard
 
 **Task Dashboard** to nowoczesna aplikacja webowa stworzona przy użyciu React i dnd-kit, służąca do zarządzania zadaniami. Aplikacja umożliwia tworzenie, edycję, przeciąganie oraz usuwanie zadań, a także wyświetlanie statystyk w formie wykresów. Wykorzystuje Firebase do uwierzytelniania przez Google oraz zapisu danych w Firestore, przy czym dla niezalogowanych użytkowników dane przechowywane są lokalnie (localStorage).
 
