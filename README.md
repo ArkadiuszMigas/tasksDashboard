@@ -39,7 +39,7 @@
    ```
 ### Instalacja i Uruchomienie
 
-#### Zainstaluj zależności
+### Zainstaluj zależności
 
 Jeśli korzystasz z **npm**:
 
@@ -53,12 +53,12 @@ lub z yarn:
 yarn install
 ```
 
-#### Skonfiguruj Firebase
+### Skonfiguruj Firebase
 - Utwórz projekt w Firebase i pobierz dane konfiguracyjne.
 - Skonfiguruj plik src/lib/firebase.js (lub firebaseConfig.js) z danymi Firebase.
 - Upewnij się, że masz odpowiednie reguły bezpieczeństwa dla Firestore.
 
-#### Uruchom aplikację
+### Uruchom aplikację
 Dla npm:
 
 ```bash
