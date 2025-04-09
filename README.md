@@ -32,11 +32,12 @@
 
 ## 🚀 Jak uruchomić projekt
 
-1. **Sklonuj repozytorium:**
-   ```bash
-   git clone git@github.com:ArkadiuszMigas/tasksDashboard.git
-   cd task-dashboard
-   ```
+### Sklonuj repozytorium:
+```bash
+git clone git@github.com:ArkadiuszMigas/tasksDashboard.git
+cd task-dashboard
+```
+
 ### Instalacja i Uruchomienie
 
 ### Zainstaluj zależności
